@@ -11,7 +11,7 @@
 void binary_tree_delete(binary_tree_t *tree)
 {
 	if (root == NULL)
-		return (NULL);
+		return ;
 	binary_tree_delete(root->left);
 	binary_tree_delete(root->right);
 	free(tree);
