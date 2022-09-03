@@ -1124,4 +1124,4 @@ alex@/tmp/binary_trees$
 # Authors
 
 * Sébastien JONAD
-* Lucie LEROTy
+* Lucie LEROTY
