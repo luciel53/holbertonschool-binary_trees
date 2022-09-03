@@ -1120,3 +1120,8 @@ Uncle of 54: 128
 Uncle of 12: (nil)
 alex@/tmp/binary_trees$
 ```
+
+# Authors
+
+* Sébastien JONAD
+* Lucie LEROTy
